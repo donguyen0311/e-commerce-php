@@ -1,0 +1,5 @@
+<div class="map wow fadeInDown animated" data-wow-delay=".5s">
+	<h3 class="tittle">Bản Đồ</h3>
+	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.6907713711967!2d106.60455324706669!3d10.758298235347185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c49b0d4e459%3A0xf45ed9184d3ed426!2zNjAgTMOqIMSQw6xuaCBD4bqpbiwgQsOsbmggVHLhu4sgxJDDtG5nIEEsIELDrG5oIFTDom4sIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1477044673931" width="600" height="450" frameborder="0" style="border:0"></iframe> -->
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3919.6289591093437!2d106.673856!3d10.7630525!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x18f40d9f2c7f8e18!2zVHJ1bmcgVMOibSBUaW4gSOG7jWMgLSDEkEggS0hUTiAoQ1MyKQ!5e0!3m2!1svi!2s!4v1478449490430" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div>

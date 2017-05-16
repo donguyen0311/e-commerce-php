@@ -1,0 +1,1 @@
+<p class="copy-right">&copy 2016 Don't Shop. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>

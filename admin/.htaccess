@@ -1,0 +1,45 @@
+#Turn on the rewriting engine
+ReWriteEngine on
+
+RewriteRule ^bang-dieu-khien$ index.php
+RewriteRule ^dang-nhap$ login.php
+
+RewriteRule ^danh-sach-bai-viet$ baiviet.php
+RewriteRule ^them-bai-viet$ thembaiviet.php
+RewriteRule ^sua-bai-viet$ suabaiviet.php
+
+RewriteRule ^danh-sach-loai-bai-viet$ loaibaiviet.php
+RewriteRule ^them-loai-bai-viet$ themloaibaiviet.php
+RewriteRule ^sua-loai-bai-viet$ sualoaibaiviet.php
+
+RewriteRule ^danh-sach-san-pham$ sanpham.php
+RewriteRule ^them-san-pham$ themsanpham.php
+RewriteRule ^sua-san-pham$ sua-san-pham.php
+RewriteRule ^danh-sach-san-pham-khuyen-mai$ sanphamkhuyenmai.php
+
+RewriteRule ^danh-sach-loai-san-pham$ loaisanpham.php
+RewriteRule ^them-loai-san-pham$ themloaisanpham.php
+RewriteRule ^sua-loai-san-pham$ sualoaisanpham.php
+
+RewriteRule ^danh-sach-nguoi-dung$ nguoidung.php
+RewriteRule ^them-nguoi-dung$ themnguoidung.php
+RewriteRule ^sua-nguoi-dung$ suanguoidung.php
+
+RewriteRule ^danh-sach-loai-nguoi-dung$ loainguoidung.php
+RewriteRule ^them-loai-nguoi-dung$ themloainguoidung.php
+RewriteRule ^sua-loai-nguoi-dung$ sualoainguoidung.php
+
+RewriteRule ^danh-sach-khach-hang$ khachhang.php
+RewriteRule ^them-khach-hang$ themkhachhang.php
+RewriteRule ^sua-khach-hang$ suakhachhang.php
+
+RewriteRule ^danh-sach-hoa-don$ hoadon.php
+
+RewriteRule ^danh-sach-lien-he$ lienhe.php
+RewriteRule ^danh-sach-email-dang-ky-nhan-tin$ nhantin.php
+
+ErrorDocument 401 /smart_shop/admin/401.html
+ErrorDocument 400 /smart_shop/admin/400.html
+ErrorDocument 403 /smart_shop/admin/403.html
+ErrorDocument 404 /smart_shop/admin/404.html
+ErrorDocument 500 /smart_shop/admin/500.html
