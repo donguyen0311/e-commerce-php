@@ -1,1 +1,1 @@
-# Project_KHTN_PHP
+# E-commerce Website is written in PHP
